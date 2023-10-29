@@ -1,0 +1,785 @@
+[
+  {
+    "employer": "Тинькофф",
+    "id_vacancy": "88772050",
+    "name": "Специалист по инкассации и кассовым операциям",
+    "area": "Краснодар",
+    "salary_from": 0,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/88772050"
+  },
+  {
+    "employer": "Тинькофф",
+    "id_vacancy": "88770723",
+    "name": "Инкассатор ПТС",
+    "area": "Краснодар",
+    "salary_from": 0,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/88770723"
+  },
+  {
+    "employer": "Тинькофф",
+    "id_vacancy": "88466939",
+    "name": "Бухгалтер по расчету заработной платы",
+    "area": "Краснодар",
+    "salary_from": 65000,
+    "salary_to": 65000,
+    "url": "https://hh.ru/vacancy/88466939"
+  },
+  {
+    "employer": "Тинькофф",
+    "id_vacancy": "86353553",
+    "name": "Начинающий специалист в ТЦ",
+    "area": "Краснодар",
+    "salary_from": 85000,
+    "salary_to": 85000,
+    "url": "https://hh.ru/vacancy/86353553"
+  },
+  {
+    "employer": "Тинькофф",
+    "id_vacancy": "88092319",
+    "name": "Специалист по восстановлению лакокрасочного покрытия банкоматов",
+    "area": "Краснодар",
+    "salary_from": 80000,
+    "salary_to": 80000,
+    "url": "https://hh.ru/vacancy/88092319"
+  },
+  {
+    "employer": "Тинькофф",
+    "id_vacancy": "87880091",
+    "name": "Специалист по подбору персонала (удаленно)",
+    "area": "Краснодар",
+    "salary_from": 49000,
+    "salary_to": 49000,
+    "url": "https://hh.ru/vacancy/87880091"
+  },
+  {
+    "employer": "Тинькофф",
+    "id_vacancy": "88471061",
+    "name": "Тренер в центр развития обучения",
+    "area": "Краснодар",
+    "salary_from": 45000,
+    "salary_to": 45000,
+    "url": "https://hh.ru/vacancy/88471061"
+  },
+  {
+    "employer": "Тинькофф",
+    "id_vacancy": "88304260",
+    "name": "Frontend-разработчик (React, middle+/senior)",
+    "area": "Краснодар",
+    "salary_from": 0,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/88304260"
+  },
+  {
+    "employer": "Тинькофф",
+    "id_vacancy": "86381940",
+    "name": "Оператор по назначению встреч (удалённо)",
+    "area": "Краснодар",
+    "salary_from": 35000,
+    "salary_to": 35000,
+    "url": "https://hh.ru/vacancy/86381940"
+  },
+  {
+    "employer": "Тинькофф",
+    "id_vacancy": "86240876",
+    "name": "QA инженер (frontend)",
+    "area": "Краснодар",
+    "salary_from": 0,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/86240876"
+  },
+  {
+    "employer": "Ozon",
+    "id_vacancy": "88626454",
+    "name": "Руководитель группы отдела качества Сортировочных центров",
+    "area": "Краснодар",
+    "salary_from": 0,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/88626454"
+  },
+  {
+    "employer": "Ozon",
+    "id_vacancy": "87000296",
+    "name": "Специалист по аудиту и качеству процессов склада",
+    "area": "Краснодар",
+    "salary_from": 70100,
+    "salary_to": 70100,
+    "url": "https://hh.ru/vacancy/87000296"
+  },
+  {
+    "employer": "Ozon",
+    "id_vacancy": "88644645",
+    "name": "Специалист по подбору персонала (Удаленно)",
+    "area": "Краснодар",
+    "salary_from": 60000,
+    "salary_to": 60000,
+    "url": "https://hh.ru/vacancy/88644645"
+  },
+  {
+    "employer": "Ozon",
+    "id_vacancy": "80717615",
+    "name": "Менеджер по продажам действующим клиентам (удаленно)",
+    "area": "Краснодар",
+    "salary_from": 0,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/80717615"
+  },
+  {
+    "employer": "Ozon",
+    "id_vacancy": "88112728",
+    "name": "Специалист по документообороту",
+    "area": "Краснодар",
+    "salary_from": 55000,
+    "salary_to": 55000,
+    "url": "https://hh.ru/vacancy/88112728"
+  },
+  {
+    "employer": "Ozon",
+    "id_vacancy": "82394432",
+    "name": "Специалист по логистике",
+    "area": "Краснодар",
+    "salary_from": 58700,
+    "salary_to": 58700,
+    "url": "https://hh.ru/vacancy/82394432"
+  },
+  {
+    "employer": "Ozon",
+    "id_vacancy": "88597285",
+    "name": "Специалист службы поддержки в Ozon Банк",
+    "area": "Краснодар",
+    "salary_from": 55000,
+    "salary_to": 55000,
+    "url": "https://hh.ru/vacancy/88597285"
+  },
+  {
+    "employer": "Ozon",
+    "id_vacancy": "88784672",
+    "name": "Руководитель подгруппы сопровождения ключевых клиентов",
+    "area": "Краснодар",
+    "salary_from": 0,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/88784672"
+  },
+  {
+    "employer": "Ozon",
+    "id_vacancy": "86110238",
+    "name": "Сотрудник склада в Озон (г. Краснодар)",
+    "area": "Краснодар",
+    "salary_from": 54000,
+    "salary_to": 54000,
+    "url": "https://hh.ru/vacancy/86110238"
+  },
+  {
+    "employer": "Ozon",
+    "id_vacancy": "79583912",
+    "name": "Начинающий специалист по подбору персонала (удаленно)",
+    "area": "Краснодар",
+    "salary_from": 40000,
+    "salary_to": 40000,
+    "url": "https://hh.ru/vacancy/79583912"
+  },
+  {
+    "employer": "СБЕР",
+    "id_vacancy": "85582665",
+    "name": "Старший клиентский менеджер (Сормовская, д. 9/1)",
+    "area": "Краснодар",
+    "salary_from": 61500,
+    "salary_to": 61500,
+    "url": "https://hh.ru/vacancy/85582665"
+  },
+  {
+    "employer": "СБЕР",
+    "id_vacancy": "88581165",
+    "name": "PR Менеджер",
+    "area": "Краснодар",
+    "salary_from": 82000,
+    "salary_to": 82000,
+    "url": "https://hh.ru/vacancy/88581165"
+  },
+  {
+    "employer": "СБЕР",
+    "id_vacancy": "88166366",
+    "name": "Специалист по зарплатным проектам",
+    "area": "Краснодар",
+    "salary_from": 76334,
+    "salary_to": 76334,
+    "url": "https://hh.ru/vacancy/88166366"
+  },
+  {
+    "employer": "СБЕР",
+    "id_vacancy": "88472970",
+    "name": "Водитель (персональный)",
+    "area": "Краснодар",
+    "salary_from": 42000,
+    "salary_to": 42000,
+    "url": "https://hh.ru/vacancy/88472970"
+  },
+  {
+    "employer": "СБЕР",
+    "id_vacancy": "88512884",
+    "name": "Руководитель направления по развитию бизнеса",
+    "area": "Краснодар",
+    "salary_from": 0,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/88512884"
+  },
+  {
+    "employer": "СБЕР",
+    "id_vacancy": "88512996",
+    "name": "Специалист поддержки корпоративных клиентов (удаленно)",
+    "area": "Краснодар",
+    "salary_from": 43500,
+    "salary_to": 43500,
+    "url": "https://hh.ru/vacancy/88512996"
+  },
+  {
+    "employer": "СБЕР",
+    "id_vacancy": "88323351",
+    "name": "Кассир",
+    "area": "Краснодар",
+    "salary_from": 40700,
+    "salary_to": 40700,
+    "url": "https://hh.ru/vacancy/88323351"
+  },
+  {
+    "employer": "СБЕР",
+    "id_vacancy": "87681715",
+    "name": "Старший менеджер по работе с клиентами",
+    "area": "Краснодар",
+    "salary_from": 61500,
+    "salary_to": 61500,
+    "url": "https://hh.ru/vacancy/87681715"
+  },
+  {
+    "employer": "СБЕР",
+    "id_vacancy": "88471830",
+    "name": "Руководитель направления отдела обеспечения ИТ поддержки",
+    "area": "Краснодар",
+    "salary_from": 0,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/88471830"
+  },
+  {
+    "employer": "СБЕР",
+    "id_vacancy": "82771028",
+    "name": "Старший менеджер по обслуживанию",
+    "area": "Краснодар",
+    "salary_from": 54500,
+    "salary_to": 54500,
+    "url": "https://hh.ru/vacancy/82771028"
+  },
+  {
+    "employer": "RBT.ru",
+    "id_vacancy": "88508941",
+    "name": "Специалист/Оператор (Диспетчер)",
+    "area": "Краснодар",
+    "salary_from": 42000,
+    "salary_to": 42000,
+    "url": "https://hh.ru/vacancy/88508941"
+  },
+  {
+    "employer": "RBT.ru",
+    "id_vacancy": "88745332",
+    "name": "Специалист",
+    "area": "Краснодар",
+    "salary_from": 40000,
+    "salary_to": 40000,
+    "url": "https://hh.ru/vacancy/88745332"
+  },
+  {
+    "employer": "Самокат (ООО Умный ритейл)",
+    "id_vacancy": "88513830",
+    "name": "Администратор - методолог",
+    "area": "Краснодар",
+    "salary_from": 80000,
+    "salary_to": 80000,
+    "url": "https://hh.ru/vacancy/88513830"
+  },
+  {
+    "employer": "Самокат (ООО Умный ритейл)",
+    "id_vacancy": "88245812",
+    "name": "Специалист по мониторингу цен",
+    "area": "Краснодар",
+    "salary_from": 76000,
+    "salary_to": 76000,
+    "url": "https://hh.ru/vacancy/88245812"
+  },
+  {
+    "employer": "Самокат (ООО Умный ритейл)",
+    "id_vacancy": "88406475",
+    "name": "Менеджер по закупкам",
+    "area": "Краснодар",
+    "salary_from": 80460,
+    "salary_to": 80460,
+    "url": "https://hh.ru/vacancy/88406475"
+  },
+  {
+    "employer": "Самокат (ООО Умный ритейл)",
+    "id_vacancy": "86903094",
+    "name": "Аналитик",
+    "area": "Краснодар",
+    "salary_from": 0,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/86903094"
+  },
+  {
+    "employer": "Самокат (ООО Умный ритейл)",
+    "id_vacancy": "87975692",
+    "name": "Специалист расчета ретро-бонуса",
+    "area": "Краснодар",
+    "salary_from": 63218,
+    "salary_to": 63218,
+    "url": "https://hh.ru/vacancy/87975692"
+  },
+  {
+    "employer": "Самокат (ООО Умный ритейл)",
+    "id_vacancy": "88601324",
+    "name": "Специалист по связям с общественностью",
+    "area": "Краснодар",
+    "salary_from": 0,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/88601324"
+  },
+  {
+    "employer": "Самокат (ООО Умный ритейл)",
+    "id_vacancy": "82257765",
+    "name": "Специалист нормативно-справочной информации",
+    "area": "Краснодар",
+    "salary_from": 45000,
+    "salary_to": 45000,
+    "url": "https://hh.ru/vacancy/82257765"
+  },
+  {
+    "employer": "Самокат (ООО Умный ритейл)",
+    "id_vacancy": "88471846",
+    "name": "Диспетчер группы оперативной работы",
+    "area": "Краснодар",
+    "salary_from": 50574,
+    "salary_to": 50574,
+    "url": "https://hh.ru/vacancy/88471846"
+  },
+  {
+    "employer": "Самокат (ООО Умный ритейл)",
+    "id_vacancy": "88549542",
+    "name": "Администратор/Товаровед (ул. Сарабеева)",
+    "area": "Краснодар",
+    "salary_from": 45000,
+    "salary_to": 66500,
+    "url": "https://hh.ru/vacancy/88549542"
+  },
+  {
+    "employer": "Самокат (ООО Умный ритейл)",
+    "id_vacancy": "88283617",
+    "name": "Специалист кадрового администрирования",
+    "area": "Краснодар",
+    "salary_from": 65000,
+    "salary_to": 65000,
+    "url": "https://hh.ru/vacancy/88283617"
+  },
+  {
+    "employer": "Спортмастер",
+    "id_vacancy": "88766014",
+    "name": "Менеджер по цифровому управлению ассортиментом",
+    "area": "Краснодар",
+    "salary_from": 0,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/88766014"
+  },
+  {
+    "employer": "Спортмастер",
+    "id_vacancy": "88646500",
+    "name": "Инженер по эксплуатации",
+    "area": "Краснодар",
+    "salary_from": 0,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/88646500"
+  },
+  {
+    "employer": "Спортмастер",
+    "id_vacancy": "81479193",
+    "name": "Системный аналитик",
+    "area": "Краснодар",
+    "salary_from": 0,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/81479193"
+  },
+  {
+    "employer": "Спортмастер",
+    "id_vacancy": "84422858",
+    "name": "Администратор в Urban Vibes (ТЦ \"OZ МОЛЛ\")",
+    "area": "Краснодар",
+    "salary_from": 50000,
+    "salary_to": 50000,
+    "url": "https://hh.ru/vacancy/84422858"
+  },
+  {
+    "employer": "Спортмастер",
+    "id_vacancy": "85644843",
+    "name": "Сборщик интернет-заказов/Кладовщик (ТЦ Красная Площадь)",
+    "area": "Краснодар",
+    "salary_from": 44500,
+    "salary_to": 44500,
+    "url": "https://hh.ru/vacancy/85644843"
+  },
+  {
+    "employer": "Спортмастер",
+    "id_vacancy": "86440793",
+    "name": "Кассир выходного дня (ТЦ Красная Площадь)",
+    "area": "Краснодар",
+    "salary_from": 45500,
+    "salary_to": 45500,
+    "url": "https://hh.ru/vacancy/86440793"
+  },
+  {
+    "employer": "Спортмастер",
+    "id_vacancy": "88230169",
+    "name": "Сборщик интернет-заказов (ТЦ Галактика)",
+    "area": "Краснодар",
+    "salary_from": 44000,
+    "salary_to": 44000,
+    "url": "https://hh.ru/vacancy/88230169"
+  },
+  {
+    "employer": "Спортмастер",
+    "id_vacancy": "88142192",
+    "name": "Кассир ТЦ \"Галерея Краснодар\"",
+    "area": "Краснодар",
+    "salary_from": 45500,
+    "salary_to": 45500,
+    "url": "https://hh.ru/vacancy/88142192"
+  },
+  {
+    "employer": "Спортмастер",
+    "id_vacancy": "77068740",
+    "name": "Продавец-консультант выходного дня ТЦ \"OZ MОЛЛ\"",
+    "area": "Краснодар",
+    "salary_from": 44000,
+    "salary_to": 53000,
+    "url": "https://hh.ru/vacancy/77068740"
+  },
+  {
+    "employer": "Спортмастер",
+    "id_vacancy": "86183962",
+    "name": "Продавец-консультант ТЦ \"Галерея Краснодар\"",
+    "area": "Краснодар",
+    "salary_from": 44000,
+    "salary_to": 53000,
+    "url": "https://hh.ru/vacancy/86183962"
+  },
+  {
+    "employer": "REDMOND",
+    "id_vacancy": "87779037",
+    "name": "Супервайзер",
+    "area": "Краснодар",
+    "salary_from": 80000,
+    "salary_to": 80000,
+    "url": "https://hh.ru/vacancy/87779037"
+  },
+  {
+    "employer": "REDMOND",
+    "id_vacancy": "88769461",
+    "name": "Промоутер-консультант REDMOND (Краснодар/ДНС)",
+    "area": "Краснодар",
+    "salary_from": 70000,
+    "salary_to": 70000,
+    "url": "https://hh.ru/vacancy/88769461"
+  },
+  {
+    "employer": "REDMOND",
+    "id_vacancy": "88160489",
+    "name": "Менеджер по продажам REDMOND",
+    "area": "Краснодар",
+    "salary_from": 35000,
+    "salary_to": 35000,
+    "url": "https://hh.ru/vacancy/88160489"
+  },
+  {
+    "employer": "REDMOND",
+    "id_vacancy": "88653742",
+    "name": "Промоутер-консультант REDMOND (Краснодар/ДНС/ТЦ Сказка Гипер)",
+    "area": "Краснодар",
+    "salary_from": 70000,
+    "salary_to": 70000,
+    "url": "https://hh.ru/vacancy/88653742"
+  },
+  {
+    "employer": "REDMOND",
+    "id_vacancy": "88769465",
+    "name": "Промоутер-консультант REDMOND (Краснодар/ДНС/ТЦ \"МегаМолл\")",
+    "area": "Краснодар",
+    "salary_from": 70000,
+    "salary_to": 70000,
+    "url": "https://hh.ru/vacancy/88769465"
+  },
+  {
+    "employer": "Комус",
+    "id_vacancy": "87158167",
+    "name": "Офис менеджер",
+    "area": "Краснодар",
+    "salary_from": 46000,
+    "salary_to": 46000,
+    "url": "https://hh.ru/vacancy/87158167"
+  },
+  {
+    "employer": "Комус",
+    "id_vacancy": "88755882",
+    "name": "Кладовщик",
+    "area": "Краснодар",
+    "salary_from": 71500,
+    "salary_to": 71500,
+    "url": "https://hh.ru/vacancy/88755882"
+  },
+  {
+    "employer": "Комус",
+    "id_vacancy": "88501964",
+    "name": "Главный инженер",
+    "area": "Краснодар",
+    "salary_from": 90000,
+    "salary_to": 90000,
+    "url": "https://hh.ru/vacancy/88501964"
+  },
+  {
+    "employer": "Комус",
+    "id_vacancy": "88353984",
+    "name": "Оператор отдела внутреннего документооборота (складской учет)",
+    "area": "Краснодар",
+    "salary_from": 50135,
+    "salary_to": 50135,
+    "url": "https://hh.ru/vacancy/88353984"
+  },
+  {
+    "employer": "Комус",
+    "id_vacancy": "76546169",
+    "name": "Комплектовщик заказов",
+    "area": "Краснодар",
+    "salary_from": 74250,
+    "salary_to": 100000,
+    "url": "https://hh.ru/vacancy/76546169"
+  },
+  {
+    "employer": "Комус",
+    "id_vacancy": "83025283",
+    "name": "Комплектовщик",
+    "area": "Краснодар",
+    "salary_from": 74250,
+    "salary_to": 100000,
+    "url": "https://hh.ru/vacancy/83025283"
+  },
+  {
+    "employer": "Комус",
+    "id_vacancy": "80337517",
+    "name": "Комплектовщик товаров",
+    "area": "Краснодар",
+    "salary_from": 74250,
+    "salary_to": 100000,
+    "url": "https://hh.ru/vacancy/80337517"
+  },
+  {
+    "employer": "Комус",
+    "id_vacancy": "87324299",
+    "name": "Специалист по охране труда",
+    "area": "Краснодар",
+    "salary_from": 69000,
+    "salary_to": 69000,
+    "url": "https://hh.ru/vacancy/87324299"
+  },
+  {
+    "employer": "Комус",
+    "id_vacancy": "88754477",
+    "name": "Грузчик-экспедитор",
+    "area": "Краснодар",
+    "salary_from": 60000,
+    "salary_to": 80000,
+    "url": "https://hh.ru/vacancy/88754477"
+  },
+  {
+    "employer": "Комус",
+    "id_vacancy": "85954073",
+    "name": "Менеджер по работе с транспортными компаниями (ТЭК)",
+    "area": "Краснодар",
+    "salary_from": 85000,
+    "salary_to": 85000,
+    "url": "https://hh.ru/vacancy/85954073"
+  },
+  {
+    "employer": "2ГИС",
+    "id_vacancy": "88624642",
+    "name": "Водитель с личным автомобилем",
+    "area": "Краснодар",
+    "salary_from": 46800,
+    "salary_to": 46800,
+    "url": "https://hh.ru/vacancy/88624642"
+  },
+  {
+    "employer": "2ГИС",
+    "id_vacancy": "85222963",
+    "name": "Менеджер по работе с клиентами (обучаем с нуля)",
+    "area": "Краснодар",
+    "salary_from": 37000,
+    "salary_to": 52000,
+    "url": "https://hh.ru/vacancy/85222963"
+  },
+  {
+    "employer": "2ГИС",
+    "id_vacancy": "85554219",
+    "name": "Начинающий специалист (присоединяйся к команде 2ГИС)",
+    "area": "Краснодар",
+    "salary_from": 37000,
+    "salary_to": 52000,
+    "url": "https://hh.ru/vacancy/85554219"
+  },
+  {
+    "employer": "2ГИС",
+    "id_vacancy": "85759296",
+    "name": "Картограф",
+    "area": "Краснодар",
+    "salary_from": 35000,
+    "salary_to": 38500,
+    "url": "https://hh.ru/vacancy/85759296"
+  },
+  {
+    "employer": "2ГИС",
+    "id_vacancy": "84379746",
+    "name": "Специалист службы поддержки пользователей (удалённо)",
+    "area": "Краснодар",
+    "salary_from": 30000,
+    "salary_to": 45000,
+    "url": "https://hh.ru/vacancy/84379746"
+  },
+  {
+    "employer": "2ГИС",
+    "id_vacancy": "83568600",
+    "name": "Менеджер",
+    "area": "Краснодар",
+    "salary_from": 60000,
+    "salary_to": 224000,
+    "url": "https://hh.ru/vacancy/83568600"
+  },
+  {
+    "employer": "2ГИС",
+    "id_vacancy": "85404379",
+    "name": "Менеджер по продвижению",
+    "area": "Краснодар",
+    "salary_from": 50000,
+    "salary_to": 100000,
+    "url": "https://hh.ru/vacancy/85404379"
+  },
+  {
+    "employer": "2ГИС",
+    "id_vacancy": "88029281",
+    "name": "Региональный тренер",
+    "area": "Краснодар",
+    "salary_from": 75000,
+    "salary_to": 75000,
+    "url": "https://hh.ru/vacancy/88029281"
+  },
+  {
+    "employer": "2ГИС",
+    "id_vacancy": "73590680",
+    "name": "Менеджер по продажам- зарабатывай с 2ГИС (г. Краснодар)",
+    "area": "Краснодар",
+    "salary_from": 60000,
+    "salary_to": 350000,
+    "url": "https://hh.ru/vacancy/73590680"
+  },
+  {
+    "employer": "2ГИС",
+    "id_vacancy": "88729754",
+    "name": "It-рекрутер",
+    "area": "Краснодар",
+    "salary_from": 0,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/88729754"
+  },
+  {
+    "employer": "Торговая сеть ТАБРИС",
+    "id_vacancy": "88763441",
+    "name": "Финансовый директор",
+    "area": "Краснодар",
+    "salary_from": 0,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/88763441"
+  },
+  {
+    "employer": "Торговая сеть ТАБРИС",
+    "id_vacancy": "86562862",
+    "name": "Менеджер направления кофе и напитки",
+    "area": "Краснодар",
+    "salary_from": 100000,
+    "salary_to": 100000,
+    "url": "https://hh.ru/vacancy/86562862"
+  },
+  {
+    "employer": "Торговая сеть ТАБРИС",
+    "id_vacancy": "85645762",
+    "name": "Специалист информационного центра",
+    "area": "Краснодар",
+    "salary_from": 38000,
+    "salary_to": 48000,
+    "url": "https://hh.ru/vacancy/85645762"
+  },
+  {
+    "employer": "Торговая сеть ТАБРИС",
+    "id_vacancy": "88451104",
+    "name": "Специалист по подбору персонала",
+    "area": "Краснодар",
+    "salary_from": 0,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/88451104"
+  },
+  {
+    "employer": "Торговая сеть ТАБРИС",
+    "id_vacancy": "88007707",
+    "name": "Дизайнер",
+    "area": "Краснодар",
+    "salary_from": 0,
+    "salary_to": 0,
+    "url": "https://hh.ru/vacancy/88007707"
+  },
+  {
+    "employer": "Торговая сеть ТАБРИС",
+    "id_vacancy": "88318687",
+    "name": "Помощник технолога",
+    "area": "Краснодар",
+    "salary_from": 55000,
+    "salary_to": 55000,
+    "url": "https://hh.ru/vacancy/88318687"
+  },
+  {
+    "employer": "Торговая сеть ТАБРИС",
+    "id_vacancy": "86458921",
+    "name": "Заместитель главного бухгалтера",
+    "area": "Краснодар",
+    "salary_from": 115000,
+    "salary_to": 115000,
+    "url": "https://hh.ru/vacancy/86458921"
+  },
+  {
+    "employer": "Торговая сеть ТАБРИС",
+    "id_vacancy": "87597226",
+    "name": "Продавец на выкладку товара (ночные смены)",
+    "area": "Краснодар",
+    "salary_from": 40000,
+    "salary_to": 45000,
+    "url": "https://hh.ru/vacancy/87597226"
+  },
+  {
+    "employer": "Торговая сеть ТАБРИС",
+    "id_vacancy": "82349151",
+    "name": "Кладовщик-оператор (Центральный склад)",
+    "area": "Краснодар",
+    "salary_from": 77000,
+    "salary_to": 90000,
+    "url": "https://hh.ru/vacancy/82349151"
+  },
+  {
+    "employer": "Торговая сеть ТАБРИС",
+    "id_vacancy": "87536206",
+    "name": "Работник торгового зала на выкладку товаров",
+    "area": "Краснодар",
+    "salary_from": 39000,
+    "salary_to": 42000,
+    "url": "https://hh.ru/vacancy/87536206"
+  }
+]
