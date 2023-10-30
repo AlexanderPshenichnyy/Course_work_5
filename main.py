@@ -1,16 +1,14 @@
 from utils.API_connect import HeadHunterAPI
 from utils.dbmanager import DBManager
-from utils.user_intersaction import user_interaction
+from utils.user_interaction import user_interaction
 from config import JSON_FILE_NAME, employer_ids
 
 
 def main():
 	# Инициализируем класс для поиска вакансий
 	hh = HeadHunterAPI()
-
 	# ключевое слово для поиска
 	search = hh.get_vacancies_by_api(employer_ids)
-
 	# сохранение в json
 	hh.save_to_json(search)
 
@@ -21,7 +19,6 @@ def main():
 			break
 		else:
 			print("Введите слово на английском")
-
 	db.create_database(db_name)  # создаём БД
 	db.create_table()  # создаём таблицы в БД
 	db.insert_data_to_table(JSON_FILE_NAME)  # заполняем таблицы
