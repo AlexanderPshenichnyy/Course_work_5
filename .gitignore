@@ -1,4 +1,4 @@
-# db .init
+# db
 database.ini
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -144,9 +144,6 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
-
-#DB
-database.ini
 
 # Pyre type checker
 .pyre/

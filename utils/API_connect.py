@@ -1,4 +1,3 @@
-from config import employer_ids
 import json
 import requests
 

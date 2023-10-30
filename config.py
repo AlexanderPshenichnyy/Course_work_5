@@ -9,6 +9,7 @@ JSON_DATA_DIR = os.path.join('data')
 JSON_FILE_NAME = 'data.json'
 
 
+
 def config(filename="database.ini", section="postgresql"):
     # create a parser
     parser = ConfigParser()

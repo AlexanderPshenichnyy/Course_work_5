@@ -1,8 +1,7 @@
 import psycopg2
 import json
 import os
-from config import config, JSON_DATA_DIR
-
+from config import config
 
 class DBManager:
 	"""Класс для работы с базой данных"""
@@ -39,7 +38,11 @@ class DBManager:
 		"""
 		Метод для создания таблиц в базе данных
 		"""
-		create_tables = """
+		try:
+			with self.connect_to_database() as connection:
+				# Создаём таблицы
+				with connection.cursor() as cur:
+					cur.execute("""
                         CREATE TABLE IF NOT EXISTS employers (
                         employer_id serial PRIMARY KEY,
                         employer_name varchar NOT NULL
@@ -54,12 +57,7 @@ class DBManager:
                         salary_from int,
                         salary_to int
                         );
-                        """
-		try:
-			with self.connect_to_database() as connection:
-				# Создаём таблицы
-				with connection.cursor() as cur:
-					cur.execute(create_tables)
+                        """)
 					print('Таблицы успешно созданы')
 			connection.commit()
 			connection.close()
@@ -102,8 +100,8 @@ class DBManager:
 						employer_id = cur.fetchone()
 
 						cur.execute(insert_to_vacancies, (employer_id, vacancy['name'],
-													  vacancy['url'], vacancy['area'],
-													  vacancy['salary_from'], vacancy['salary_to']))
+														  vacancy['url'], vacancy['area'],
+														  vacancy['salary_from'], vacancy['salary_to']))
 
 				print(f'Таблицы успешно заполнены данными из файла {data_filename}')
 
@@ -183,5 +181,3 @@ class DBManager:
 				res = cur.fetchall()
 		connection.close()
 		return res
-
-
